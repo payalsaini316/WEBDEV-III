@@ -1,0 +1,25 @@
+
+{
+  "university": "KR Mangalam University",
+  "department": "Data Science",
+  "students": [
+    {
+      "id": 1,
+      "name": "Payal",
+      "course": "BSc Data Science",
+      "semester": 3
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "course": "BCA",
+      "semester": 2
+    },
+    {
+      "id": 3,
+      "name": "Priya",
+      "course": "BSc Computer Science",
+      "semester": 4
+    }
+  ]
+}
